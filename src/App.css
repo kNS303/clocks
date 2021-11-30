@@ -1,0 +1,12 @@
+body {
+  color: blanchedalmond;
+  background-color: black;
+  text-align: center; 
+  
+}
+
+.App {
+margin: 40px;
+padding: 50px;
+    border: solid 10px blanchedalmond;
+}
